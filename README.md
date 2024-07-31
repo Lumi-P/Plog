@@ -18,7 +18,7 @@ pLog(플로그)는 플로깅 활동을 기록하고 공유하며, 환경 개선�
 ## 시연 영상
 [![Video Label](http://img.youtube.com/vi/NWrJgTlvKpk/0.jpg)](https://youtu.be/NWrJgTlvKpk)
 
-## Development_Skills
+## 사용 기술
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/></a>
